@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582870718 source:c:\users\cal\documents\c explore\lab1.2\main.c
+	<stdio.h>
+	<stdlib.h>
+
